@@ -9,43 +9,23 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.155.0</generator>
+    <generator>Hugo -- 0.160.1</generator>
     <language>en</language>
+    <copyright>TLC-FMG University of Amsterdam</copyright>
     <atom:link href="http://localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tool 1</title>
+      <title>AI Detective</title>
       <link>http://localhost:1313/tools/tool-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tools/tool-1/</guid>
-      <description>Placeholder tool page.</description>
+      <description>Think you can spot AI-written text? Most teachers are more confident than they are accurate.</description>
     </item>
     <item>
-      <title>Tool 2</title>
+      <title>Canvas Feed</title>
       <link>http://localhost:1313/tools/tool-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tools/tool-2/</guid>
-      <description>Placeholder tool page.</description>
-    </item>
-    <item>
-      <title>Tool 3</title>
-      <link>http://localhost:1313/tools/tool-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/tool-3/</guid>
-      <description>Placeholder tool page.</description>
-    </item>
-    <item>
-      <title>Tool 4</title>
-      <link>http://localhost:1313/tools/tool-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/tool-4/</guid>
-      <description>Placeholder tool page.</description>
-    </item>
-    <item>
-      <title>Tool 5</title>
-      <link>http://localhost:1313/tools/tool-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/tool-5/</guid>
-      <description>Placeholder tool page.</description>
+      <description>Turn Canvas discussion boards into structured in-class follow-up sessions, powered by AI.</description>
     </item>
   </channel>
 </rss>

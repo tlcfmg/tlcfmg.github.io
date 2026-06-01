@@ -1,0 +1,24 @@
+/* ── Streamlit app embed container (required for iframe display) ── */
+.tool-embed-wrapper {
+  margin: 1.5rem 0 1rem;
+}
+
+.tool-embed-container {
+  position: relative;
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+}
+
+.tool-embed-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+
+.tool-embed-caption {
+  font-size: 0.82rem;
+  margin-top: 0.55rem;
+  text-align: center;
+}

@@ -19,9 +19,29 @@ languages:
   en:
     languageName: English
     weight: 1
+    params:
+      homeInfoParams:
+        Title: "TLC-FMG Open Source Tools"
+        Content: "This page outlines open source tools for teaching and learning maintained by the Teaching and Learning Centre (TLC-FMG) at the University of Amsterdam's Faculty of Social and Behavioural Sciences."
+    menu:
+      main:
+        - identifier: tlc-main
+          name: Main site
+          url: https://tlc.uva.nl/en/article-faculty/fmg-en/
+          weight: 10
   nl:
     languageName: Nederlands
     weight: 2
+    params:
+      homeInfoParams:
+        Title: "TLC-FMG Open Source Tools"
+        Content: "Deze pagina beschrijft open source tools voor onderwijs en leren, onderhouden door het Teaching and Learning Centre (TLC-FMG) van de Faculteit der Maatschappij- en Gedragswetenschappen van de Universiteit van Amsterdam."
+    menu:
+      main:
+        - identifier: tlc-main
+          name: Hoofdwebsite
+          url: https://tlc.uva.nl/en/article-faculty/fmg-en/
+          weight: 10
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -61,7 +81,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "TLC-FMG Tools"
+    text: "TLC-FMG Open Source Tools"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -81,9 +101,7 @@ params:
         url: tags
 
   # home-info mode
-  homeInfoParams:
-    Title: "TLC-FMG Open Source Tools"
-    Content: "This page outlines open source tools for teaching and learning maintained by the Teaching and Learning Centre (TLC-FMG) at the University of Amsterdam's Faculty of Social and Behavioural Sciences."
+  # homeInfoParams is now defined per language in the languages section above
 
   socialIcons:
     - name: Email
@@ -124,15 +142,14 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: tlc-main
-      name: Main site
-      url: https://tlc.uva.nl/en/article-faculty/fmg-en/
-      weight: 10
+# Menu is now defined per language in the languages section above
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
+copyright: '[TLC-FMG University of Amsterdam](https://tlc.uva.nl/en/article-faculty/fmg-en/)'
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     noClasses: false
     # anchorLineNos: true
