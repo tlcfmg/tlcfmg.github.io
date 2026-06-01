@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:59517/nl/tools/tool-1/</loc>
+    <loc>http://localhost:1313/nl/tools/tool-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:59517/tools/tool-1/"
+                href="http://localhost:1313/tools/tool-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:59517/nl/tools/tool-1/"
+                href="http://localhost:1313/nl/tools/tool-1/"
                 />
   </url><url>
-    <loc>http://localhost:59517/nl/tools/tool-2/</loc>
+    <loc>http://localhost:1313/nl/tools/tool-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:59517/tools/tool-2/"
+                href="http://localhost:1313/tools/tool-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:59517/nl/tools/tool-2/"
+                href="http://localhost:1313/nl/tools/tool-2/"
                 />
   </url><url>
-    <loc>http://localhost:59517/nl/categories/</loc>
+    <loc>http://localhost:1313/nl/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:59517/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:59517/nl/categories/"
+                href="http://localhost:1313/nl/categories/"
                 />
   </url><url>
-    <loc>http://localhost:59517/nl/tags/</loc>
+    <loc>http://localhost:1313/nl/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:59517/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:59517/nl/tags/"
+                href="http://localhost:1313/nl/tags/"
                 />
   </url><url>
-    <loc>http://localhost:59517/nl/</loc>
+    <loc>http://localhost:1313/nl/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:59517/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:59517/nl/"
+                href="http://localhost:1313/nl/"
                 />
   </url><url>
-    <loc>http://localhost:59517/nl/tools/</loc>
+    <loc>http://localhost:1313/nl/tools/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:59517/tools/"
+                href="http://localhost:1313/tools/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:59517/nl/tools/"
+                href="http://localhost:1313/nl/tools/"
                 />
   </url>
 </urlset>

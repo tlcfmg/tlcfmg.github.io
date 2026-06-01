@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TLC-FMG Open Source Tools for Teaching &amp; Learning</title>
-    <link>http://localhost:59517/nl/</link>
+    <link>http://localhost:1313/nl/</link>
     <description>Recent content on TLC-FMG Open Source Tools for Teaching &amp; Learning</description>
     <image>
       <title>TLC-FMG Open Source Tools for Teaching &amp; Learning</title>
-      <url>http://localhost:59517/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:59517/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.160.1</generator>
     <language>nl</language>
     <copyright>TLC-FMG University of Amsterdam</copyright>
-    <atom:link href="http://localhost:59517/nl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/nl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Detective</title>
-      <link>http://localhost:59517/nl/tools/tool-1/</link>
+      <link>http://localhost:1313/nl/tools/tool-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59517/nl/tools/tool-1/</guid>
-      <description>Kun jij menselijk schrijven van AI onderscheiden? Een klassenspel om kritisch lezen te oefenen.</description>
+      <guid>http://localhost:1313/nl/tools/tool-1/</guid>
+      <description>Denk je dat je AI-tekst herkent? De meeste docenten zijn zekerder van zichzelf dan hun score rechtvaardigt.</description>
     </item>
     <item>
       <title>Canvas Feed</title>
-      <link>http://localhost:59517/nl/tools/tool-2/</link>
+      <link>http://localhost:1313/nl/tools/tool-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59517/nl/tools/tool-2/</guid>
+      <guid>http://localhost:1313/nl/tools/tool-2/</guid>
       <description>Zet Canvas-discussieborden om in gestructureerde nagesprekken in de klas, aangedreven door AI.</description>
     </item>
   </channel>
