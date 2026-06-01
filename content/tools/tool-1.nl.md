@@ -1,9 +1,9 @@
 ---
 title: "AI Detective"
-summary: "Denk je dat je AI-tekst herkent? De meeste docenten zijn zekerder van zichzelf dan hun score rechtvaardigt."
+summary: "Kun jij AI-gegenereerde tekst onderscheiden van menselijk schrijven? Lees abstracts, maak je keuze en zie je score."
 ---
 
-De meeste docenten zijn ervan overtuigd dat ze AI-gegenereerde tekst kunnen onderscheiden van menselijk schrijven. AI Detective stelt dat vertrouwen op de proef. Lees elk abstract en oordeel: mens of AI? Zie direct of je gelijk had en hoe je score zich verhoudt tot toeval.
+AI Detective is een eenvoudige quiztool om te verkennen hoe goed mensen AI-gegenereerde tekst kunnen onderscheiden van menselijk schrijven. Lees elk abstract en oordeel: mens of AI? Zie direct of je gelijk had en hoe je score zich verhoudt tot toeval.
 
 <div class="tool-embed-wrapper">
   <div class="tool-embed-container">

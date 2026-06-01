@@ -1,9 +1,9 @@
 ---
 title: "AI Detective"
-summary: "Think you can spot AI-written text? Most teachers are more confident than they are accurate."
+summary: "Can you tell AI-generated text from human writing? Read abstracts, make your call, and see how you score."
 ---
 
-Most teachers are convinced they can tell AI-generated text from human writing. AI Detective puts that confidence to the test. Read each abstract and decide: human or AI? See immediately whether you were right and how your score compares to chance.
+AI Detective is a simple quiz tool for exploring how well people can distinguish AI-generated text from human writing. Read each abstract and decide: human or AI? See immediately whether you were right and how your score compares to chance.
 
 <div class="tool-embed-wrapper">
   <div class="tool-embed-container">
