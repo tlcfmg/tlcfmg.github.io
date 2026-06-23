@@ -1,5 +1,5 @@
 ---
-title: "Canvas Feed"
+title: "canvasfeed"
 url: "/canvasfeed/"
 weight: 4
 aliases:
@@ -13,7 +13,7 @@ Paste a Canvas discussion URL and this (local for privacy) app fetches all stude
   <div class="tool-embed-container">
     <iframe
       src="https://canvasfeed.streamlit.app/?embed=true"
-      title="Canvas Feed interactive demo"
+      title="canvasfeed interactive demo"
       frameborder="0"
       allow="camera; microphone"
       loading="lazy">

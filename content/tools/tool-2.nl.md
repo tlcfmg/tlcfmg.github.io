@@ -1,5 +1,5 @@
 ---
-title: "Canvas Feed"
+title: "canvasfeed"
 url: "/nl/canvasfeed/"
 weight: 4
 aliases:
@@ -13,7 +13,7 @@ Plak een Canvas-discussie-URL en deze app (lokaal, met het oog op privacy) haalt
   <div class="tool-embed-container">
     <iframe
       src="https://canvasfeed.streamlit.app/?embed=true"
-      title="Canvas Feed interactieve demo"
+      title="canvasfeed interactieve demo"
       frameborder="0"
       allow="camera; microphone"
       loading="lazy">
