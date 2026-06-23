@@ -15,23 +15,23 @@
     <atom:link href="https://tlcfmg.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Detective</title>
-      <link>https://tlcfmg.github.io/tools/tool-1/</link>
+      <link>https://tlcfmg.github.io/aidetective/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tlcfmg.github.io/tools/tool-1/</guid>
+      <guid>https://tlcfmg.github.io/aidetective/</guid>
       <description>Can we really tell AI-generated text from human writing? Read abstracts, make your call, and see how you score.</description>
     </item>
     <item>
       <title>AI-Resilient Assessment Designer</title>
-      <link>https://tlcfmg.github.io/tools/tool-3/</link>
+      <link>https://tlcfmg.github.io/airad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tlcfmg.github.io/tools/tool-3/</guid>
+      <guid>https://tlcfmg.github.io/airad/</guid>
       <description>Reconsider your course assessment structure with an interactive AI-vulnerability score.</description>
     </item>
     <item>
       <title>Canvas Feed</title>
-      <link>https://tlcfmg.github.io/tools/tool-2/</link>
+      <link>https://tlcfmg.github.io/canvasfeed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tlcfmg.github.io/tools/tool-2/</guid>
+      <guid>https://tlcfmg.github.io/canvasfeed/</guid>
       <description>Turn Canvas discussion boards into structured in-class follow-up sessions, powered by AI.</description>
     </item>
   </channel>

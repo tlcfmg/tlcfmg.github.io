@@ -1,5 +1,8 @@
 ---
 title: "Canvas Feed"
+url: "/canvasfeed/"
+aliases:
+  - "/tools/tool-2/"
 summary: "Turn Canvas discussion boards into structured in-class follow-up sessions, powered by AI."
 ---
 

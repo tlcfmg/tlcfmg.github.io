@@ -1,5 +1,9 @@
 ---
 title: "AI-Resilient Assessment Designer"
+url: "/airad/"
+aliases:
+  - "/tools/tool-3/"
+  - "/ai-resilient-assessment-designer/"
 summary: "Reconsider your course assessment structure with an interactive AI-vulnerability score."
 ---
 

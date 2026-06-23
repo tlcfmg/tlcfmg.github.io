@@ -1,5 +1,8 @@
 ---
 title: "AI Detective"
+url: "/aidetective/"
+aliases:
+  - "/tools/tool-1/"
 summary: "Can we really tell AI-generated text from human writing? Read abstracts, make your call, and see how you score."
 ---
 

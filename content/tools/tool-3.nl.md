@@ -1,5 +1,9 @@
 ---
 title: "AI-Resilient Assessment Designer"
+url: "/nl/airad/"
+aliases:
+  - "/tools/tool-3/"
+  - "/ai-resilient-assessment-designer/"
 summary: "Heroverweeg de toetsstructuur van je vak met een interactieve AI-kwetsbaarheidsscore."
 ---
 

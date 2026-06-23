@@ -1,5 +1,8 @@
 ---
 title: "AI Detective"
+url: "/nl/aidetective/"
+aliases:
+  - "/tools/tool-1/"
 summary: "Kunnen we AI-gegenereerde tekst echt onderscheiden van menselijk schrijven? Lees abstracts, maak je keuze en zie je score."
 ---
 

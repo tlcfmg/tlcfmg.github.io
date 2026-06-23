@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tlcfmg.github.io/tools/tool-1/</loc>
+    <loc>https://tlcfmg.github.io/aidetective/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://tlcfmg.github.io/nl/tools/tool-1/"
+                href="https://tlcfmg.github.io/nl/aidetective/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tlcfmg.github.io/tools/tool-1/"
+                href="https://tlcfmg.github.io/aidetective/"
                 />
   </url><url>
-    <loc>https://tlcfmg.github.io/tools/tool-3/</loc>
+    <loc>https://tlcfmg.github.io/airad/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://tlcfmg.github.io/nl/tools/tool-3/"
+                href="https://tlcfmg.github.io/nl/airad/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tlcfmg.github.io/tools/tool-3/"
+                href="https://tlcfmg.github.io/airad/"
                 />
   </url><url>
-    <loc>https://tlcfmg.github.io/tools/tool-2/</loc>
+    <loc>https://tlcfmg.github.io/canvasfeed/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://tlcfmg.github.io/nl/tools/tool-2/"
+                href="https://tlcfmg.github.io/nl/canvasfeed/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tlcfmg.github.io/tools/tool-2/"
+                href="https://tlcfmg.github.io/canvasfeed/"
                 />
   </url><url>
     <loc>https://tlcfmg.github.io/categories/</loc>
