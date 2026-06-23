@@ -1,19 +1,21 @@
 ---
-title: "AI-Resilient Assessment Designer"
-url: "/airad/"
+title: "AI Exposure Scan"
+url: "/aiexposurescan/"
 aliases:
   - "/tools/tool-3/"
+  - "/airad/"
+  - "/ai-exposure-scan/"
   - "/ai-resilient-assessment-designer/"
-summary: "Reconsider your course assessment structure with an interactive AI-vulnerability score."
+summary: "Scan your course assessment structure with an interactive AI-exposure score."
 ---
 
-The AI-Resilient Assessment Designer helps teachers reflect on the assessment structure of their course. Select your forms of assessment and the tool calculates a dynamic AI-vulnerability score, giving an indication of how resilient these assessments are to generative AI use.
+AI Exposure Scan helps teachers reflect on the assessment structure of their course. Select your forms of assessment and the tool calculates a dynamic AI-exposure score, giving an indication of how susceptible these assessments are to generative AI use.
 
 <div class="tool-embed-wrapper">
   <div class="tool-embed-container">
     <iframe
       src="https://denbroeder.eu/host/airad?embed=true"
-      title="AI-Resilient Assessment Designer"
+      title="AI Exposure Scan"
       frameborder="0"
       loading="lazy">
     </iframe>
