@@ -41,5 +41,12 @@
       <guid>https://tlcfmg.github.io/nl/canvasfeed/</guid>
       <description>Zet Canvas-discussieborden om in gestructureerde nagesprekken in de klas, aangedreven door AI.</description>
     </item>
+    <item>
+      <title>Stress test your assessment</title>
+      <link>https://tlcfmg.github.io/nl/stress-test-your-assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tlcfmg.github.io/nl/stress-test-your-assessment/</guid>
+      <description>Open de PDF-handleiding om toetsontwerp te stress-testen in relatie tot generatieve AI.</description>
+    </item>
   </channel>
 </rss>

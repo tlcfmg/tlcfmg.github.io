@@ -50,6 +50,18 @@
                 href="https://tlcfmg.github.io/nl/canvasfeed/"
                 />
   </url><url>
+    <loc>https://tlcfmg.github.io/nl/stress-test-your-assessment/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tlcfmg.github.io/stress-test-your-assessment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://tlcfmg.github.io/nl/stress-test-your-assessment/"
+                />
+  </url><url>
     <loc>https://tlcfmg.github.io/nl/categories/</loc>
     <xhtml:link
                 rel="alternate"
