@@ -21,7 +21,7 @@ languages:
     weight: 1
     params:
       homeInfoParams:
-        Content: "This page outlines open source tools for teaching and learning maintained by the Teaching and Learning Centre (TLC-FMG) at the University of Amsterdam's Faculty of Social and Behavioural Sciences."
+        Content: "This page catalogues open source tools for teaching and learning maintained by the Teaching and Learning Centre at the University of Amsterdam's Faculty of Social and Behavioural Sciences."
     menu:
       main:
         - identifier: tlc-main
@@ -33,7 +33,7 @@ languages:
     weight: 2
     params:
       homeInfoParams:
-        Content: "Deze pagina beschrijft open source tools voor onderwijs en leren, onderhouden door het Teaching and Learning Centre (TLC-FMG) van de Faculteit der Maatschappij- en Gedragswetenschappen van de Universiteit van Amsterdam."
+        Content: "Deze pagina catalogiseert open source tools voor onderwijs en leren, onderhouden door het Teaching and Learning Centre van de Faculteit der Maatschappij- en Gedragswetenschappen van de Universiteit van Amsterdam."
     menu:
       main:
         - identifier: tlc-main
@@ -73,11 +73,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon-32x32.png"
 
   label:
     text: "TLC-FMG AI Tools"

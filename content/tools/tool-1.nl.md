@@ -4,10 +4,10 @@ url: "/nl/aidetective/"
 weight: 1
 aliases:
   - "/tools/tool-1/"
-summary: "Kunnen we AI-gegenereerde tekst echt onderscheiden van menselijk schrijven? Lees abstracts, maak je keuze en zie je score."
+summary: "Kunnen we AI-gegenereerde tekst echt onderscheiden van menselijk academisch schrijven? Lees abstracts, maak je keuze en zie je score."
 ---
 
-AI Detective is een minimale quiztool om te verkennen hoe goed we AI-gegenereerde tekst kunnen onderscheiden van menselijk schrijven. Lees elk abstract en oordeel: mens of AI? Zie direct of je gelijk had en hoe je score zich verhoudt tot toeval.
+AI Detective is een minimale quiztool om te verkennen hoe goed we AI-gegenereerde tekst kunnen onderscheiden van menselijk academisch schrijven. Lees elk abstract en oordeel: mens of AI? Zie direct of je gelijk had en hoe je score zich verhoudt tot toeval.
 
 <div class="tool-embed-wrapper">
   <div class="tool-embed-container">

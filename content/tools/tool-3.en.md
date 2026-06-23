@@ -10,7 +10,7 @@ aliases:
 summary: "Scan your course assessment structure with an interactive AI-exposure score."
 ---
 
-AI Exposure Scan helps teachers reflect on the assessment structure of their course. Select your forms of assessment and the tool calculates a dynamic AI-exposure score, giving an indication of how susceptible these assessments are to generative AI use.
+AI Exposure Scan helps teachers reflect on the assessment structure of their course. Select your forms of assessment and the tool calculates a dynamic AI exposure score, giving an indication of how susceptible these assessments are to generative AI use.
 
 <div class="tool-embed-wrapper">
   <div class="tool-embed-container">

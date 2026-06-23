@@ -4,10 +4,10 @@ url: "/aidetective/"
 weight: 1
 aliases:
   - "/tools/tool-1/"
-summary: "Can we really tell AI-generated text from human writing? Read abstracts, make your call, and see how you score."
+summary: "Can we really tell AI-generated text from human academic writing? Read abstracts, make your call, and see how you score."
 ---
 
-AI Detective is a minimal quiz tool for exploring how well we can distinguish AI-generated text from human writing. Read each abstract and decide: human or AI? See immediately whether you were right and how your score compares to chance.
+AI Detective is a minimal quiz tool for exploring how well we can distinguish AI-generated text from human academic writing. Read each abstract and decide: human or AI? See immediately whether you were right and how your score compares to chance.
 
 <div class="tool-embed-wrapper">
   <div class="tool-embed-container">

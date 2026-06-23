@@ -4,7 +4,7 @@ url: "/canvasfeed/"
 weight: 4
 aliases:
   - "/tools/tool-2/"
-summary: "Turn Canvas discussion boards into structured in-class follow-up sessions, powered by AI."
+summary: "Turn Canvas discussion boards into structured in-class follow-up sessions, powered by UvA AI."
 ---
 
 Paste a Canvas discussion URL and this (local for privacy) app fetches all student posts, generates a structured summary, and prepares a personalised Socratic follow-up question for each student ready to use in class. Requires a Canvas API token and an LLM API key; see the [GitHub repository](https://github.com/tlcfmg/canvasfeed) for setup.
