@@ -21,7 +21,6 @@ languages:
     weight: 1
     params:
       homeInfoParams:
-        Title: "TLC-FMG AI Tools"
         Content: "This page outlines open source tools for teaching and learning maintained by the Teaching and Learning Centre (TLC-FMG) at the University of Amsterdam's Faculty of Social and Behavioural Sciences."
     menu:
       main:
@@ -34,7 +33,6 @@ languages:
     weight: 2
     params:
       homeInfoParams:
-        Title: "TLC-FMG AI Tools"
         Content: "Deze pagina beschrijft open source tools voor onderwijs en leren, onderhouden door het Teaching and Learning Centre (TLC-FMG) van de Faculteit der Maatschappij- en Gedragswetenschappen van de Universiteit van Amsterdam."
     menu:
       main:
