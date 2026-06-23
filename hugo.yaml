@@ -1,5 +1,5 @@
 baseURL: "https://tlcfmg.github.io/"
-title: "TLC-FMG Open Source Tools for Teaching & Learning"
+title: "TLC-FMG AI Tools"
 theme: PaperMod
 defaultContentLanguage: en
 
@@ -21,7 +21,7 @@ languages:
     weight: 1
     params:
       homeInfoParams:
-        Title: "TLC-FMG Open Source Tools"
+        Title: "TLC-FMG AI Tools"
         Content: "This page outlines open source tools for teaching and learning maintained by the Teaching and Learning Centre (TLC-FMG) at the University of Amsterdam's Faculty of Social and Behavioural Sciences."
     menu:
       main:
@@ -34,7 +34,7 @@ languages:
     weight: 2
     params:
       homeInfoParams:
-        Title: "TLC-FMG Open Source Tools"
+        Title: "TLC-FMG AI Tools"
         Content: "Deze pagina beschrijft open source tools voor onderwijs en leren, onderhouden door het Teaching and Learning Centre (TLC-FMG) van de Faculteit der Maatschappij- en Gedragswetenschappen van de Universiteit van Amsterdam."
     menu:
       main:
@@ -45,7 +45,7 @@ languages:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "TLC-FMG Open Source Tools for Teaching & Learning"
+  title: "TLC-FMG AI Tools"
   description: "Open source tools for teaching and learning maintained by the Teaching and Learning Centre (TLC-FMG) at the University of Amsterdam's Faculty of Social and Behavioural Sciences"
   keywords: [Education, Teaching, Learning, OpenSource, University, Tools, TLC, FMG, UVA]
   author: "TLC-FMG at University of Amsterdam"
@@ -81,7 +81,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "TLC-FMG Open Source Tools"
+    text: "TLC-FMG AI Tools"
     icon: /apple-touch-icon.png
     iconHeight: 35
 

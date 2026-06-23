@@ -1,25 +1,18 @@
 ---
-title: "Follow-up Question Generator"
-summary: "Generate personalized follow-up questions based on Canvas comments."
-draft: true
+title: "AI-Resilient Assessment Designer"
+summary: "Reconsider your course assessment structure with an interactive AI-vulnerability score."
 ---
 
-## Follow-up Question Generator
+The AI-Resilient Assessment Designer helps teachers reflect on the assessment structure of their course. Select your forms of assessment and the tool calculates a dynamic AI-vulnerability score, giving an indication of how resilient these assessments are to generative AI use.
 
-This tool generates personalized follow-up questions based on comments made by students in Canvas. It helps educators engage students more effectively by providing tailored questions that encourage deeper thinking.
-
-### Features
-- Integrates with Canvas LMS via API
-- Analyzes student comments to generate relevant questions
-- Powered by AI language models
-- Personalized to each student's engagement level
-
-### Requirements
-- Canvas API key
-- AI model API key (e.g., OpenAI, Anthropic)
-
-### Use Cases
-- Increase student engagement in online discussions
-- Provide personalized feedback at scale
-- Encourage deeper reflection on course materials
-- Support formative assessment practices
+<div class="tool-embed-wrapper">
+  <div class="tool-embed-container">
+    <iframe
+      src="https://denbroeder.eu/host/airad?embed=true"
+      title="AI-Resilient Assessment Designer"
+      frameborder="0"
+      loading="lazy">
+    </iframe>
+  </div>
+  <p class="tool-embed-caption">Having trouble viewing the app? <a href="https://denbroeder.eu/host/airad" target="_blank" rel="noopener">Open it in a new tab →</a></p>
+</div>

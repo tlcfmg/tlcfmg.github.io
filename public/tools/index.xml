@@ -1,30 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tools on TLC-FMG Open Source Tools for Teaching &amp; Learning</title>
-    <link>http://localhost:1313/tools/</link>
-    <description>Recent content in Tools on TLC-FMG Open Source Tools for Teaching &amp; Learning</description>
+    <title>Tools on TLC-FMG AI Tools</title>
+    <link>https://tlcfmg.github.io/tools/</link>
+    <description>Recent content in Tools on TLC-FMG AI Tools</description>
     <image>
-      <title>TLC-FMG Open Source Tools for Teaching &amp; Learning</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>TLC-FMG AI Tools</title>
+      <url>https://tlcfmg.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tlcfmg.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.160.1</generator>
     <language>en</language>
     <copyright>TLC-FMG University of Amsterdam</copyright>
-    <atom:link href="http://localhost:1313/tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tlcfmg.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Detective</title>
-      <link>http://localhost:1313/tools/tool-1/</link>
+      <link>https://tlcfmg.github.io/tools/tool-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/tool-1/</guid>
-      <description>Can you tell AI-generated text from human writing? Read abstracts, make your call, and see how you score.</description>
+      <guid>https://tlcfmg.github.io/tools/tool-1/</guid>
+      <description>Can we really tell AI-generated text from human writing? Read abstracts, make your call, and see how you score.</description>
+    </item>
+    <item>
+      <title>AI-Resilient Assessment Designer</title>
+      <link>https://tlcfmg.github.io/tools/tool-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tlcfmg.github.io/tools/tool-3/</guid>
+      <description>Reconsider your course assessment structure with an interactive AI-vulnerability score.</description>
     </item>
     <item>
       <title>Canvas Feed</title>
-      <link>http://localhost:1313/tools/tool-2/</link>
+      <link>https://tlcfmg.github.io/tools/tool-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tools/tool-2/</guid>
+      <guid>https://tlcfmg.github.io/tools/tool-2/</guid>
       <description>Turn Canvas discussion boards into structured in-class follow-up sessions, powered by AI.</description>
     </item>
   </channel>

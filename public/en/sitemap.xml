@@ -2,76 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tools/tool-1/</loc>
+    <loc>https://tlcfmg.github.io/tools/tool-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/nl/tools/tool-1/"
+                href="https://tlcfmg.github.io/nl/tools/tool-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tools/tool-1/"
+                href="https://tlcfmg.github.io/tools/tool-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tools/tool-2/</loc>
+    <loc>https://tlcfmg.github.io/tools/tool-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/nl/tools/tool-2/"
+                href="https://tlcfmg.github.io/nl/tools/tool-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tools/tool-2/"
+                href="https://tlcfmg.github.io/tools/tool-3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://tlcfmg.github.io/tools/tool-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/nl/categories/"
+                href="https://tlcfmg.github.io/nl/tools/tool-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://tlcfmg.github.io/tools/tool-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://tlcfmg.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/nl/tags/"
+                href="https://tlcfmg.github.io/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://tlcfmg.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://tlcfmg.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/nl/"
+                href="https://tlcfmg.github.io/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://tlcfmg.github.io/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tools/</loc>
+    <loc>https://tlcfmg.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/nl/tools/"
+                href="https://tlcfmg.github.io/nl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tools/"
+                href="https://tlcfmg.github.io/"
+                />
+  </url><url>
+    <loc>https://tlcfmg.github.io/tools/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://tlcfmg.github.io/nl/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tlcfmg.github.io/tools/"
                 />
   </url>
 </urlset>

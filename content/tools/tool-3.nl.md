@@ -1,25 +1,18 @@
 ---
-title: "Follow-up Vraag Generator"
-summary: "Genereer gepersonaliseerde vervolgvragen op basis van Canvas-reacties."
-draft: true
+title: "AI-Resilient Assessment Designer"
+summary: "Heroverweeg de toetsstructuur van je vak met een interactieve AI-kwetsbaarheidsscore."
 ---
 
-## Follow-up Vraag Generator
+De AI-Resilient Assessment Designer helpt docenten reflecteren op de toetsstructuur van hun vak. Selecteer je toetsvormen en de tool berekent een dynamische AI-kwetsbaarheidsscore, als indicatie van hoe bestand deze toetsvormen zijn tegen generatieve AI.
 
-Deze tool genereert gepersonaliseerde vervolgvragen op basis van reacties die studenten in Canvas hebben geplaatst. Het helpt docenten om studenten effectiever te betrekken door op maat gemaakte vragen te stellen die dieper nadenken aanmoedigen.
-
-### Functies
-- Integreert met Canvas LMS via API
-- Analyseert studentenreacties om relevante vragen te genereren
-- Aangedreven door AI-taalmodellen
-- Gepersonaliseerd naar het betrokkenheidsniveau van elke student
-
-### Vereisten
-- Canvas API-sleutel
-- AI-model API-sleutel (bijv. OpenAI, Anthropic)
-
-### Toepassingen
-- Verhoog studentenbetrokkenheid in online discussies
-- Bied op schaal gepersonaliseerde feedback
-- Moedig diepere reflectie op cursusmateriaal aan
-- Ondersteun formatieve beoordelingspraktijken
+<div class="tool-embed-wrapper">
+  <div class="tool-embed-container">
+    <iframe
+      src="https://denbroeder.eu/host/airad?embed=true"
+      title="AI-Resilient Assessment Designer"
+      frameborder="0"
+      loading="lazy">
+    </iframe>
+  </div>
+  <p class="tool-embed-caption">App niet zichtbaar? <a href="https://denbroeder.eu/host/airad" target="_blank" rel="noopener">Open in een nieuw tabblad →</a></p>
+</div>

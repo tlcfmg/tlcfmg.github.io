@@ -3,7 +3,7 @@ title: "Canvas Feed"
 summary: "Zet Canvas-discussieborden om in gestructureerde nagesprekken in de klas, aangedreven door AI."
 ---
 
-Plak een Canvas-discussie-URL en de app haalt alle studentenbijdragen op, genereert een gestructureerde samenvatting en maakt een gepersonaliseerde socratische vervolgvraag per student aan klaar voor gebruik in de les. Vereist een Canvas API-token en een LLM API-sleutel; zie de [GitHub-repository](https://github.com/tlcfmg/canvasfeed) voor de installatie.
+Plak een Canvas-discussie-URL en deze app (lokaal, met het oog op privacy) haalt alle studentenbijdragen op, genereert een gestructureerde samenvatting en maakt een gepersonaliseerde socratische vervolgvraag per student aan klaar voor gebruik in de les. Vereist een Canvas API-token en een LLM API-sleutel; zie de [GitHub-repository](https://github.com/tlcfmg/canvasfeed) voor de installatie.
 
 <div class="tool-embed-wrapper">
   <div class="tool-embed-container">
