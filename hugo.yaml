@@ -67,6 +67,7 @@ params:
   disableScrollToTop: false
   comments: false
   hidemeta: false
+  hideAuthor: true
   hideSummary: false
   showtoc: false
   tocopen: false
