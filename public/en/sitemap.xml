@@ -26,6 +26,18 @@
                 href="https://tlcfmg.github.io/aiexposurescan/"
                 />
   </url><url>
+    <loc>https://tlcfmg.github.io/surveychat/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://tlcfmg.github.io/nl/surveychat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tlcfmg.github.io/surveychat/"
+                />
+  </url><url>
     <loc>https://tlcfmg.github.io/canvasfeed/</loc>
     <xhtml:link
                 rel="alternate"

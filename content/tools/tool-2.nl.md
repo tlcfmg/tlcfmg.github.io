@@ -1,6 +1,7 @@
 ---
 title: "Canvas Feed"
 url: "/nl/canvasfeed/"
+weight: 4
 aliases:
   - "/tools/tool-2/"
 summary: "Zet Canvas-discussieborden om in gestructureerde nagesprekken in de klas, aangedreven door AI."

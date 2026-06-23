@@ -1,6 +1,7 @@
 ---
 title: "AI Gevoeligheidsscan"
 url: "/nl/ai-gevoeligheidsscan/"
+weight: 2
 aliases:
   - "/tools/tool-3/"
   - "/airad/"

@@ -1,6 +1,7 @@
 ---
 title: "AI Exposure Scan"
 url: "/aiexposurescan/"
+weight: 2
 aliases:
   - "/tools/tool-3/"
   - "/airad/"
